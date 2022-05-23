@@ -1,0 +1,14 @@
+<h1>Yakup Sarıcı</h1>
+<!--Adımı Başlık şeklinde h1 etiketiyle yazdım.-->
+<h4>Hakkımda</h4>
+<!--Daha küçük bir fontla altbaşlığımı attım.-->
+<p>Merhaba ben Yakup S. İstanbulda ikamet ediyorum. Müzik dinlemeyi seven, seyahat etmekten ve araba sürmekten
+    hoşlanan
+    20'lerinde bir gencim.</p>
+<!--Bir paragaf oluşturarak kendimden bahsettim.-->
+<h4>Araba sürerken dinlemeyi sevdiğim müzik türleri.</h4>
+<!--Yeni bir altbaşlık ile hoşlandığım müzik türlerinden bahsettim.-->
+<p>Rock</p>
+<p>Rap</p>
+<p>Yöresel Oyun Havaları</p>
+<!--Paragraf oluşturarak türleri yazdım.-->
